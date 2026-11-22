@@ -1,3 +1,10 @@
 ---
-name: Your Name
+name: John Donne
+expertise: 2D background artist for games and animation
+email: john.donne@example.org
 ---
+I paint rooms for people who haven't arrived yet. Once I put a character in the frame, I usually find one more thing to change.
+
+No background is an island. On our laundromat game I painted the room, then opened the menu and watched it swallow the room whole. I went back to the wall colours to mix a palette for the buttons.
+
+I learned to paint backgrounds on actual walls first, as a teenage apprentice on a 40-foot community mural in Philadelphia.
