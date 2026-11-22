@@ -1,1 +1,10 @@
-[]
+- name: Photoshop
+- name: Procreate
+- name: Oil and gouache
+- name: Unreal Engine 5
+  note: 2D scenes and UMG menus
+- name: Godot
+  note: 2D and parallax
+- name: Figma
+- name: Blender
+  note: Perspective blockouts only
