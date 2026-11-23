@@ -2,6 +2,7 @@
 title: The Room Across the Street
 projectKind: brief
 caption: A painted frame-shop window that reads from both sides of the glass.
+image: images/room-across-the-street_project-image_1800x1200.jpg
 alt: A street-facing shop window shows a painted gold frame around an unpainted
   opening, with mat samples visible inside.
 year: Summer 2026
