@@ -43,7 +43,10 @@ sections:
       Photoshop, split into foreground, playfield and parallax layers, with the
       walkable line and the character's scale marked. Each background is 3840 ×
       2160 and took 25 to 35 hours by my time log. I built a small Godot demo so
-      people could walk through the scenes, not just look at them.
+      people could walk through the scenes, not just look at them. I caught one
+      mistake only when I walked the El platform. The station name slid off its
+      sign as the camera moved. I'd put the letters on the skyline layer. Moving
+      them onto the platform kept the sign bolted together.
   - heading: Iteration
     image: images/workshop-of-the-world_section-iteration_1200x1350.jpg
     alt: "Scene 3 twice at the same crop: above, bright mill windows; below, windows
@@ -57,7 +60,9 @@ sections:
 
       Scene 3, first pass and repaint. I brought the mill windows closer to the
       value of the brick so the brightest edge at street level belongs to the
-      exit.
+      exit. My first correction lit up the entire door. At game scale it looked
+      pasted on. In the repaint the door is almost as dark as the wall. All I
+      kept was the blade of daylight along the jamb.
   - heading: Outcome
     image: images/workshop-of-the-world_section-outcome_900x1200.jpg
     alt: A handwritten tally sheet counting players at the expo demo.
