@@ -2,6 +2,8 @@
 name: John Donne
 expertise: 2D background artist for games and animation
 email: john.donne@example.org
+linkedin: https://www.linkedin.com/in/yourname
+github: https://github.com/yourname
 ---
 I paint rooms for people who haven't gotten there yet. Once I put a character in the frame, I usually find one more thing to change.
 
