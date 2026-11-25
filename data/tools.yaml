@@ -1,9 +1,10 @@
 - name: Photoshop
 - name: Procreate
-- name: Oil and gouache
-- name: Unreal Engine 5
-  note: 2D scenes and UMG menus
-- name: Godot
+- tool: Traditional media
+  note: Oil and gouache
+- tool: Unreal Engine
+  note: UE5; 2D scenes and UMG menus
+- tool: Godot Engine
   note: 2D and parallax
 - name: Figma
 - name: Blender
