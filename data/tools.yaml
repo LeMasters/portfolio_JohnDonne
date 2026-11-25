@@ -1,4 +1,5 @@
 - tool: Photoshop
+- tool: Illustrator
 - tool: Procreate
 - tool: Unreal Engine
   note: UE5; 2D scenes and UMG menus
@@ -9,4 +10,3 @@
   note: Perspective blockouts only
 - tool: Traditional media
   note: Oil and gouache
-- tool: Illustrator
