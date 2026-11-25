@@ -1,11 +1,11 @@
-- name: Photoshop
-- name: Procreate
+- tool: Photoshop
+- tool: Procreate
 - tool: Traditional media
   note: Oil and gouache
 - tool: Unreal Engine
   note: UE5; 2D scenes and UMG menus
 - tool: Godot Engine
   note: 2D and parallax
-- name: Figma
-- name: Blender
+- tool: Figma
+- tool: Blender
   note: Perspective blockouts only
