@@ -1,7 +1,5 @@
 - tool: Photoshop
 - tool: Procreate
-- tool: Traditional media
-  note: Oil and gouache
 - tool: Unreal Engine
   note: UE5; 2D scenes and UMG menus
 - tool: Godot Engine
@@ -9,3 +7,6 @@
 - tool: Figma
 - tool: Blender
   note: Perspective blockouts only
+- tool: Traditional media
+  note: Oil and gouache
+- tool: Illustrator
