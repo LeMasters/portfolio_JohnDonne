@@ -73,6 +73,6 @@ sections:
     text: The scenes are nearly empty of props. Modernism taught me to leave clutter
       out; now I'm learning to put lived-in clutter back without losing the
       path.
-weight: 1
+weight: 9
 ---
 Eight 2D backgrounds of industrial Philadelphia, painted as parallax layers for an imagined side-scrolling exploration game and walked through in a small Godot demo. This page follows them from photo walks to a repaint that an eye-tracking pilot prompted.
