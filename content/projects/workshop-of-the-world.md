@@ -1,6 +1,6 @@
 ---
 title: Workshop of the World
-projectKind: case-study
+projectKind: project
 caption: Eight Philadelphia backgrounds. One exit door sent me back to the easel.
 image: images/workshop-of-the-world_project-image_1800x1200.jpg
 alt: A painted side-scrolling background of an empty El platform at dusk, with
